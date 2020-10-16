@@ -38,6 +38,6 @@ class weddingCompany implements Marry {
     }
     private void after(){
 
-        System.out.println("结婚后，婚庆公司收取尾款");
+        System.out.println("结婚后，婚庆公司收取尾款1234568798798");
     }
 }
