@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Proxy-Pattern" />
+        <module name="Lambda" />
+        <module name="Arithmetic-Study" />
+        <module name="MultiThreading" />
+        <module name="JDK1.8-New-Features" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Arithmetic-Study" target="1.8" />
+      <module name="Design-Mode-Study" target="1.8" />
+      <module name="Design-Mode-Study1" target="1.8" />
+      <module name="JDK1.8-New-Features" target="1.8" />
+      <module name="JUC-Study" target="1.8" />
+      <module name="Lambda" target="1.8" />
+      <module name="MultiThreading" target="1.8" />
+      <module name="Proxy-Mode" target="1.8" />
+      <module name="Proxy-Pattern" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
