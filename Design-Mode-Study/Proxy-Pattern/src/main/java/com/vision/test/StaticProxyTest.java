@@ -36,6 +36,7 @@ class weddingCompany implements Marry {
         System.out.println("结婚前，婚庆公司开始筹备");
     }
     private void after(){
+        //添加了一行注释 测试
         System.out.println("结婚后，婚庆公司收取尾款");
     }
 }

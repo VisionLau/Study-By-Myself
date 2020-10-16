@@ -1,0 +1,4 @@
+# Project exclude paths
+/Design-Mode-Study/Proxy-Pattern/target/
+/JDK1.8-New-Features/Lambda/target/
+/JUC-Study/multithreading/target/
