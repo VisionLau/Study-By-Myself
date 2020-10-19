@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/JDK1.8-New-Features/Lambda/pom.xml" />
         <option value="$PROJECT_DIR$/JUC-Study/pom.xml" />
         <option value="$PROJECT_DIR$/Design-Mode-Study/Proxy-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/JUC-Study/MultiThreading1/pom.xml" />
+        <option value="$PROJECT_DIR$/JUC-Study/JavaMultiThreading/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

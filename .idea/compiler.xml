@@ -7,20 +7,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Proxy-Pattern" />
-        <module name="Lambda" />
+        <module name="JavaMultiThreading" />
+        <module name="JDK1.8-New-Features" />
+        <module name="MultiThreading1" />
         <module name="Arithmetic-Study" />
         <module name="MultiThreading" />
-        <module name="JDK1.8-New-Features" />
+        <module name="Lambda" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Arithmetic-Study" target="1.8" />
       <module name="Design-Mode-Study" target="1.8" />
       <module name="Design-Mode-Study1" target="1.8" />
+      <module name="JavaMultiThreading" target="1.8" />
       <module name="JDK1.8-New-Features" target="1.8" />
       <module name="JUC-Study" target="1.8" />
       <module name="Lambda" target="1.8" />
       <module name="MultiThreading" target="1.8" />
+      <module name="MultiThreading1" target="1.8" />
       <module name="Proxy-Mode" target="1.8" />
       <module name="Proxy-Pattern" target="1.8" />
     </bytecodeTargetLevel>
