@@ -14,11 +14,13 @@
         <option value="$PROJECT_DIR$/Design-Mode-Study/Proxy-Pattern/pom.xml" />
         <option value="$PROJECT_DIR$/JUC-Study/MultiThreading1/pom.xml" />
         <option value="$PROJECT_DIR$/JUC-Study/JavaMultiThreading/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeepe/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Design-Mode-Study1/pom.xml" />
+        <option value="$PROJECT_DIR$/Zookeeper/pom.xml" />
       </set>
     </option>
   </component>

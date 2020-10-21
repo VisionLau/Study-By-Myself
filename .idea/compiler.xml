@@ -11,8 +11,8 @@
         <module name="JDK1.8-New-Features" />
         <module name="MultiThreading1" />
         <module name="Arithmetic-Study" />
-        <module name="MultiThreading" />
         <module name="Lambda" />
+        <module name="MultiThreading" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +27,7 @@
       <module name="MultiThreading1" target="1.8" />
       <module name="Proxy-Mode" target="1.8" />
       <module name="Proxy-Pattern" target="1.8" />
+      <module name="Zookeeper" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
