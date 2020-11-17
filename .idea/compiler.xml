@@ -10,13 +10,15 @@
         <module name="JavaMultiThreading" />
         <module name="JDK1.8-New-Features" />
         <module name="MultiThreading1" />
+        <module name="Array-Sort-Study" />
         <module name="Arithmetic-Study" />
-        <module name="Lambda" />
         <module name="MultiThreading" />
+        <module name="Lambda" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Arithmetic-Study" target="1.8" />
+      <module name="Array-Sort-Study" target="1.8" />
       <module name="Design-Mode-Study" target="1.8" />
       <module name="Design-Mode-Study1" target="1.8" />
       <module name="JavaMultiThreading" target="1.8" />

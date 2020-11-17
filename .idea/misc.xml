@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/JUC-Study/MultiThreading1/pom.xml" />
         <option value="$PROJECT_DIR$/JUC-Study/JavaMultiThreading/pom.xml" />
         <option value="$PROJECT_DIR$/zookeepe/pom.xml" />
+        <option value="$PROJECT_DIR$/Array-Sort-Study/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -24,5 +25,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/Zookeeper" />
+  </component>
 </project>

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arithmetic-Study/Arithmetic-Study.iml" filepath="$PROJECT_DIR$/Arithmetic-Study/Arithmetic-Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-Sort-Study/Array/Array.iml" filepath="$PROJECT_DIR$/Array-Sort-Study/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-Sort-Study/Array-Sort-Study.iml" filepath="$PROJECT_DIR$/Array-Sort-Study/Array-Sort-Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Mode-Study/Design-Mode-Study.iml" filepath="$PROJECT_DIR$/Design-Mode-Study/Design-Mode-Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDK1.8-New-Features/JDK1.8-New-Features.iml" filepath="$PROJECT_DIR$/JDK1.8-New-Features/JDK1.8-New-Features.iml" />
       <module fileurl="file://$PROJECT_DIR$/JUC-Study/JUC-Study.iml" filepath="$PROJECT_DIR$/JUC-Study/JUC-Study.iml" />
