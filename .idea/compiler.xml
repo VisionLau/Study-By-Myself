@@ -11,20 +11,26 @@
         <module name="JDK1.8-New-Features" />
         <module name="MultiThreading1" />
         <module name="Array-Sort-Study" />
-        <module name="Arithmetic-Study" />
+        <module name="InterviewTest" />
         <module name="MultiThreading" />
+        <module name="Data-Structures" />
+        <module name="LeeCode" />
         <module name="Lambda" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Arithmetic-Study" target="1.8" />
       <module name="Array-Sort-Study" target="1.8" />
+      <module name="Data-Structures" target="1.8" />
+      <module name="Data-Structures-And-Algorithms" target="1.8" />
       <module name="Design-Mode-Study" target="1.8" />
       <module name="Design-Mode-Study1" target="1.8" />
+      <module name="InterviewTest" target="1.8" />
       <module name="JavaMultiThreading" target="1.8" />
       <module name="JDK1.8-New-Features" target="1.8" />
       <module name="JUC-Study" target="1.8" />
       <module name="Lambda" target="1.8" />
+      <module name="LeeCode" target="1.8" />
       <module name="MultiThreading" target="1.8" />
       <module name="MultiThreading1" target="1.8" />
       <module name="Proxy-Mode" target="1.8" />

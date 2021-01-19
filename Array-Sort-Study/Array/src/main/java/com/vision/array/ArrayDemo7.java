@@ -1,7 +1,9 @@
+package com.vision.array;
+
 import java.util.Scanner;
 
-public class ArrayDemo6 {
-    public static void main(String[] args){
+public class ArrayDemo7 {
+    public static void main(String[] args) {
         System.out.println("请输入你要打印的行数：");
         Scanner input=new Scanner(System.in);
         int n= input.nextInt();

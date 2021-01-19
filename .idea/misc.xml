@@ -16,10 +16,15 @@
         <option value="$PROJECT_DIR$/JUC-Study/JavaMultiThreading/pom.xml" />
         <option value="$PROJECT_DIR$/zookeepe/pom.xml" />
         <option value="$PROJECT_DIR$/Array-Sort-Study/pom.xml" />
+        <option value="$PROJECT_DIR$/InterviewTest/pom.xml" />
+        <option value="$PROJECT_DIR$/LeeCode/pom.xml" />
+        <option value="$PROJECT_DIR$/Data-structures-and-Algorithms/pom.xml" />
+        <option value="$PROJECT_DIR$/Data-Structures/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Arithmetic-Study/Data-Structures/pom.xml" />
         <option value="$PROJECT_DIR$/Design-Mode-Study1/pom.xml" />
         <option value="$PROJECT_DIR$/Zookeeper/pom.xml" />
       </set>

@@ -1,3 +1,5 @@
+package com.vision.array;
+
 public class ArrayDemo1 {
     public static void main(String[] args){
         int num1=1;

@@ -1,3 +1,5 @@
+package com.vision.array;
+
 public class ArrayDemo4 {
     public static void main(String[] args){
         int array[]={10,50,40,60,80};

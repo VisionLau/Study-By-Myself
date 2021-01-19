@@ -1,3 +1,5 @@
+package com.vision.array;
+
 public class ArrayDemo5 {
     public static void main(String[] args){
         //二维数组类型  二维数组名 [] []=new 二维数组类型[二维数组长度][二维数组中每个一维数组的长度]
