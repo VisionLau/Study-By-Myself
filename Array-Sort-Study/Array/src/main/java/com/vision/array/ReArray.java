@@ -40,4 +40,6 @@ public class ReArray {
       //  System.out.println(simpleSearch(nums,99));
         System.out.println(binarySearch(nums,99));
     }
+
+
 }

@@ -2,6 +2,7 @@ package com.vision.sparsearray;
 
 import java.io.*;
 import java.util.Arrays;
+import java.util.Queue;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class SparseArray {
@@ -80,6 +81,7 @@ public class SparseArray {
     public static void writeFile(int [][]sparseArray,String filePath) throws IOException {
         File file=new File(filePath);
         Writer writer=new FileWriter(file);
+
         BufferedWriter bufferedWriter=new BufferedWriter(writer);
         String str="";
         try {
@@ -88,6 +90,7 @@ public class SparseArray {
             }
             bufferedWriter.write(str);
         }finally {
+
             bufferedWriter.flush();
             bufferedWriter.close();
         }
@@ -110,5 +113,6 @@ public class SparseArray {
             reChessArray[Integer.valueOf(split[0])][Integer.valueOf(split[1])]=Integer.valueOf(split[2]);
         }
         return reChessArray;
+        
     }
 }
